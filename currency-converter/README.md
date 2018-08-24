@@ -1,6 +1,6 @@
 Hi all,
 
-Below this is Create-React-App Boilerplate below. All you need is to download the code and run 'npm-start.'
+Everything below these lines are Create-React-App Boilerplate. All you need to do to get started is to download the code and run 'npm-start.' Thanks for stopping by!
 
 -Andrew
 
