@@ -1,3 +1,9 @@
+Hi all,
+
+Below this is Create-React-App Boilerplate below. All you need is to download the code and run 'npm-start.'
+
+-Andrew
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
